@@ -1,7 +1,7 @@
 package cn.pojo;
 
 public class User {
-	private int age;
+	private int id;
 	private String name;
 	
 	private boolean isChild;
