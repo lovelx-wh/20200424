@@ -5,4 +5,12 @@ public class User {
 	private String name;
 	
 	private boolean isChild;
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}	
 }
