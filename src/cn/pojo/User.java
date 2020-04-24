@@ -3,8 +3,8 @@ package cn.pojo;
 public class User {
 	private int id;
 	private String name;
-	
-	private boolean isChild;
+
+	private boolean young;
 
 	public int getId() {
 		return id;
@@ -12,5 +12,6 @@ public class User {
 
 	public void setId(int id) {
 		this.id = id;
-	}	
+	}
+
 }
