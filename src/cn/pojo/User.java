@@ -5,7 +5,7 @@ public class User {
 	private String name;
 
 	private boolean young;
-
+	private int age;
 	public int getId() {
 		return id;
 	}
